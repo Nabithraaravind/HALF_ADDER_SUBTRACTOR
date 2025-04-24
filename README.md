@@ -59,6 +59,7 @@ Figure -02 HALF Subtractor
 
 Developed by:A.NABITHRA
 RegisterNumber:212224230172
+
 module EXP3(a,b,sum,carry,diff,borr);
 input a,b;
 output sum,carry,diff,borr;
